@@ -10,4 +10,8 @@
 python3 fuzz.py -wordlist fuzz.txt
 ```
 
+## Target Vuln Assets:
+- Domain `vulnweb.com`
+- Subdomain `http://testphp.vulnweb.com/`
+
 >> For Learning Purposes Only!
