@@ -4,5 +4,10 @@
 2. Make the script executable `chmod +x ping.py`
 3. Run the script `python3 ping.py`
 
+## Specifics
+- For `fuzz.py` provide a custom wordlist hence use the command:
+```py
+python3 fuzz.py -wordlist fuzz.txt
+```
 
 >> For Learning Purposes Only!
