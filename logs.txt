@@ -1,0 +1,200 @@
+2025-07-29 10:01:25 WARN  Configuration saved
+2025-07-29 10:02:45 ERROR Configuration loaded
+2025-07-29 10:03:26 WARN  Health check OK
+2025-07-29 10:04:51 DEBUG Configuration saved
+2025-07-29 10:05:40 INFO  Connection lost
+2025-07-29 10:06:44 INFO  Cache cleared
+2025-07-29 10:08:13 ERROR Connection lost
+2025-07-29 10:09:02 DEBUG Connection established
+2025-07-29 10:09:53 INFO  Connection established
+2025-07-29 10:10:47 ERROR USER=charlie; PASS=trustno1
+2025-07-29 10:11:24 INFO  Connection established
+2025-07-29 10:12:00 ERROR Service stopped
+2025-07-29 10:13:05 ERROR Cache cleared
+2025-07-29 10:14:19 WARN  Configuration loaded
+2025-07-29 10:15:04 ERROR Cache cleared
+2025-07-29 10:16:23 ERROR Configuration saved
+2025-07-29 10:17:48 INFO  Configuration loaded
+2025-07-29 10:19:06 DEBUG Cache cleared
+2025-07-29 10:19:40 DEBUG Health check OK
+2025-07-29 10:20:55 INFO  login succeeded for grace/welcome1
+2025-07-29 10:21:49 ERROR Connection lost
+2025-07-29 10:23:08 DEBUG Debugging session started
+2025-07-29 10:24:28 ERROR Service stopped
+2025-07-29 10:25:20 ERROR Debugging session started
+2025-07-29 10:26:01 WARN  Health check OK
+2025-07-29 10:27:20 ERROR Debugging session ended
+2025-07-29 10:28:00 INFO  Connection established
+2025-07-29 10:29:25 DEBUG Service stopped
+2025-07-29 10:30:54 DEBUG Configuration loaded
+2025-07-29 10:31:25 DEBUG username: dave password: admin
+2025-07-29 10:32:10 INFO  Configuration loaded
+2025-07-29 10:32:55 INFO  Service stopped
+2025-07-29 10:34:15 DEBUG Configuration saved
+2025-07-29 10:35:29 DEBUG Debugging session ended
+2025-07-29 10:36:07 INFO  Service stopped
+2025-07-29 10:37:20 DEBUG Connection lost
+2025-07-29 10:38:12 DEBUG Debugging session ended
+2025-07-29 10:38:52 ERROR Configuration saved
+2025-07-29 10:39:36 DEBUG Debugging session ended
+2025-07-29 10:40:43 WARN  username: eve password: qwerty
+2025-07-29 10:41:21 WARN  Configuration saved
+2025-07-29 10:42:17 ERROR Connection lost
+2025-07-29 10:43:47 WARN  Cache cleared
+2025-07-29 10:44:18 INFO  Debugging session started
+2025-07-29 10:45:20 INFO  Connection lost
+2025-07-29 10:46:03 WARN  Service started
+2025-07-29 10:47:31 ERROR Health check OK
+2025-07-29 10:48:46 WARN  Service stopped
+2025-07-29 10:49:35 WARN  Cache cleared
+2025-07-29 10:50:23 ERROR login succeeded for grace/secret123
+2025-07-29 10:51:29 DEBUG Debugging session ended
+2025-07-29 10:52:26 DEBUG Health check OK
+2025-07-29 10:53:32 ERROR Configuration saved
+2025-07-29 10:54:55 ERROR Service started
+2025-07-29 10:55:49 INFO  Configuration loaded
+2025-07-29 10:57:12 ERROR Connection lost
+2025-07-29 10:57:44 WARN  Connection lost
+2025-07-29 10:58:35 ERROR Service started
+2025-07-29 10:59:05 WARN  Service stopped
+2025-07-29 10:59:45 DEBUG login succeeded for eve/trustno1
+2025-07-29 11:00:58 ERROR Cache cleared
+2025-07-29 11:02:16 WARN  Health check OK
+2025-07-29 11:03:01 ERROR Configuration loaded
+2025-07-29 11:03:52 ERROR Connection lost
+2025-07-29 11:05:03 DEBUG Configuration saved
+2025-07-29 11:05:38 INFO  Configuration loaded
+2025-07-29 11:06:30 ERROR Debugging session started
+2025-07-29 11:07:16 ERROR Health check OK
+2025-07-29 11:08:02 DEBUG Configuration saved
+2025-07-29 11:08:50 WARN  USER=heidi; PASS=qwerty
+2025-07-29 11:10:16 DEBUG Debugging session started
+2025-07-29 11:11:09 DEBUG Service started
+2025-07-29 11:11:53 INFO  Service stopped
+2025-07-29 11:13:03 ERROR Configuration loaded
+2025-07-29 11:14:25 ERROR Cache cleared
+2025-07-29 11:15:06 ERROR Debugging session ended
+2025-07-29 11:15:45 DEBUG Debugging session started
+2025-07-29 11:17:09 INFO  Configuration saved
+2025-07-29 11:18:15 ERROR Service started
+2025-07-29 11:19:15 DEBUG USER=grace; PASS=hunter2
+2025-07-29 11:20:07 DEBUG Connection lost
+2025-07-29 11:20:44 ERROR Debugging session ended
+2025-07-29 11:21:31 INFO  Debugging session ended
+2025-07-29 11:22:55 WARN  Cache cleared
+2025-07-29 11:23:45 DEBUG Service stopped
+2025-07-29 11:24:57 WARN  Connection lost
+2025-07-29 11:25:51 ERROR Configuration saved
+2025-07-29 11:26:30 ERROR Health check OK
+2025-07-29 11:27:42 ERROR Service stopped
+2025-07-29 11:28:45 DEBUG USER=bob; PASS=letmein
+2025-07-29 11:29:51 DEBUG Connection established
+2025-07-29 11:30:45 INFO  Configuration saved
+2025-07-29 11:31:46 ERROR Service started
+2025-07-29 11:32:43 INFO  Configuration saved
+2025-07-29 11:33:24 INFO  Debugging session started
+2025-07-29 11:34:01 WARN  Debugging session started
+2025-07-29 11:34:38 WARN  Debugging session started
+2025-07-29 11:35:17 INFO  Connection established
+2025-07-29 11:36:16 ERROR Configuration saved
+2025-07-29 11:37:41 WARN  username: bob password: welcome1
+2025-07-29 11:38:43 WARN  Debugging session ended
+2025-07-29 11:39:16 DEBUG Service stopped
+2025-07-29 11:40:18 INFO  Debugging session ended
+2025-07-29 11:41:13 INFO  Configuration loaded
+2025-07-29 11:42:01 ERROR Connection established
+2025-07-29 11:42:49 WARN  Connection established
+2025-07-29 11:43:30 INFO  Service started
+2025-07-29 11:44:18 ERROR Service started
+2025-07-29 11:45:01 INFO  Connection established
+2025-07-29 11:45:31 DEBUG USER=heidi; PASS=secret123
+2025-07-29 11:46:45 INFO  Configuration loaded
+2025-07-29 11:47:49 DEBUG Configuration saved
+2025-07-29 11:48:47 DEBUG Connection lost
+2025-07-29 11:49:47 WARN  Service started
+2025-07-29 11:51:01 INFO  Service stopped
+2025-07-29 11:52:15 DEBUG Service started
+2025-07-29 11:52:48 ERROR Service started
+2025-07-29 11:53:58 INFO  Service started
+2025-07-29 11:55:04 ERROR Cache cleared
+2025-07-29 11:56:34 INFO  login succeeded for ivan/qwerty
+2025-07-29 11:57:42 ERROR Configuration loaded
+2025-07-29 11:58:25 INFO  Cache cleared
+2025-07-29 11:59:55 ERROR Connection lost
+2025-07-29 12:01:02 DEBUG Service started
+2025-07-29 12:02:08 WARN  Debugging session ended
+2025-07-29 12:03:10 WARN  Health check OK
+2025-07-29 12:03:42 DEBUG Debugging session ended
+2025-07-29 12:04:17 ERROR Configuration loaded
+2025-07-29 12:05:18 WARN  Health check OK
+2025-07-29 12:06:28 WARN  username: ivan password: hunter2
+2025-07-29 12:07:14 ERROR Debugging session started
+2025-07-29 12:08:35 DEBUG Cache cleared
+2025-07-29 12:09:16 INFO  Connection established
+2025-07-29 12:10:22 ERROR Health check OK
+2025-07-29 12:11:11 ERROR Configuration loaded
+2025-07-29 12:12:33 WARN  Configuration loaded
+2025-07-29 12:13:08 ERROR Connection lost
+2025-07-29 12:14:05 WARN  Cache cleared
+2025-07-29 12:15:02 INFO  Cache cleared
+2025-07-29 12:15:32 INFO  USER=ivan; PASS=password
+2025-07-29 12:16:37 INFO  Configuration saved
+2025-07-29 12:18:02 INFO  Cache cleared
+2025-07-29 12:18:45 DEBUG Service started
+2025-07-29 12:19:40 INFO  Configuration saved
+2025-07-29 12:21:00 WARN  Health check OK
+2025-07-29 12:21:35 ERROR Configuration loaded
+2025-07-29 12:22:37 WARN  Debugging session ended
+2025-07-29 12:24:07 WARN  Cache cleared
+2025-07-29 12:25:30 ERROR Connection lost
+2025-07-29 12:26:23 ERROR login succeeded for charlie/password
+2025-07-29 12:26:59 WARN  Connection established
+2025-07-29 12:28:02 DEBUG Debugging session ended
+2025-07-29 12:29:25 DEBUG Connection lost
+2025-07-29 12:30:09 INFO  Connection lost
+2025-07-29 12:31:15 WARN  Connection established
+2025-07-29 12:32:04 DEBUG Configuration loaded
+2025-07-29 12:33:21 WARN  Debugging session started
+2025-07-29 12:34:23 DEBUG Cache cleared
+2025-07-29 12:35:04 WARN  Cache cleared
+2025-07-29 12:36:12 INFO  username: alice password: passw0rd
+2025-07-29 12:36:50 WARN  Debugging session started
+2025-07-29 12:37:57 WARN  Debugging session ended
+2025-07-29 12:39:20 DEBUG Cache cleared
+2025-07-29 12:40:45 WARN  Service stopped
+2025-07-29 12:41:59 DEBUG Debugging session ended
+2025-07-29 12:43:21 DEBUG Connection lost
+2025-07-29 12:43:58 WARN  Service started
+2025-07-29 12:45:20 DEBUG Debugging session started
+2025-07-29 12:46:02 DEBUG Service started
+2025-07-29 12:46:44 WARN  USER=dave; PASS=passw0rd
+2025-07-29 12:47:45 INFO  Connection lost
+2025-07-29 12:48:31 WARN  Configuration saved
+2025-07-29 12:49:33 INFO  Configuration saved
+2025-07-29 12:50:31 ERROR Connection lost
+2025-07-29 12:51:45 INFO  Service stopped
+2025-07-29 12:52:27 DEBUG Configuration saved
+2025-07-29 12:52:58 INFO  Debugging session ended
+2025-07-29 12:54:14 WARN  Cache cleared
+2025-07-29 12:54:58 WARN  Cache cleared
+2025-07-29 12:55:52 ERROR login succeeded for charlie/password
+2025-07-29 12:57:16 WARN  Service stopped
+2025-07-29 12:58:46 ERROR Cache cleared
+2025-07-29 12:59:23 DEBUG Health check OK
+2025-07-29 13:00:05 DEBUG Debugging session started
+2025-07-29 13:01:07 INFO  Configuration saved
+2025-07-29 13:02:17 ERROR Debugging session ended
+2025-07-29 13:03:32 WARN  Service stopped
+2025-07-29 13:04:05 ERROR Cache cleared
+2025-07-29 13:05:18 WARN  Cache cleared
+2025-07-29 13:06:18 WARN  username: heidi password: admin
+2025-07-29 13:06:55 INFO  Connection lost
+2025-07-29 13:07:53 DEBUG Cache cleared
+2025-07-29 13:08:45 ERROR Health check OK
+2025-07-29 13:10:14 ERROR Cache cleared
+2025-07-29 13:11:26 DEBUG Service stopped
+2025-07-29 13:12:11 ERROR Debugging session ended
+2025-07-29 13:13:18 DEBUG Debugging session started
+2025-07-29 13:14:08 INFO  Connection established
+2025-07-29 13:14:59 ERROR Connection lost
+2025-07-29 13:15:55 INFO  login succeeded for eve/letmein
