@@ -19,4 +19,6 @@ python3 parse_logs.py -file logs.txt
 - Domain `vulnweb.com`
 - Subdomain `http://testphp.vulnweb.com/`
 
+- Domain `example.com`
+
 >> For Learning Purposes Only!
