@@ -10,6 +10,11 @@
 python3 fuzz.py -wordlist fuzz.txt
 ```
 
+- For `parse_logs.py` provide the logs file hence use the command:
+```py
+python3 parse_logs.py -file logs.txt
+```
+
 ## Target Vuln Assets:
 - Domain `vulnweb.com`
 - Subdomain `http://testphp.vulnweb.com/`
